@@ -1,0 +1,7 @@
+
+1. DATA TYPES
+/*C and C++ support various data types, including integers, floating-point numbers, characters, and more.
+Common integer data types include int, short, long, and long long.
+Floating-point data types include float, double, and long double.
+Characters are represented using char.
+
